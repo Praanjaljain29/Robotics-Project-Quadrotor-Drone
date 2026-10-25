@@ -1,15 +1,15 @@
-AISR Quadrotor Drone – Controller Comparison
+AISR Quadrotor Drone â€“ Controller Comparison
 ======================================================================
 Metric                                 Baseline PID            Tuned PID             
 -----------------------------------    --------------------    --------------------  
-Altitude RMSE (m)                      0.7410                  0.7601                
-Altitude Mean Error (m)                0.2612                  0.2832                
-Altitude Max Error (m)                 3.2335                  3.2316                
-Altitude Overshoot (%)                 4.39                    4.73                  
-Altitude Settling Time (s)             5.25                    4.83                  
-X RMSE (m)                             2.3288                  2.1722                
-Z RMSE (m)                             1.6293                  1.6144                
-3-D RMSE (m)                           2.9372                  2.8112                
-3-D Max Error (m)                      5.1659                  5.0689                
+Altitude RMSE (m)                      0.9817                  0.9730                
+Altitude Mean Error (m)                0.3189                  0.3032                
+Altitude Max Error (m)                 5.0000                  5.0000                
+Altitude Overshoot (%)                 14.38                   15.07                 
+Altitude Settling Time (s)             6.66                    5.22                  
+X RMSE (m)                             2.3797                  2.2958                
+Z RMSE (m)                             1.6473                  1.5950                
+3-D RMSE (m)                           3.0562                  2.9600                
+3-D Max Error (m)                      5.0299                  5.0212                
 WP Success Rate (%)                    100.0                   100.0                 
-Mission Time (s)                       42.0                    35.2                  
+Mission Time (s)                       35.9                    31.0                  

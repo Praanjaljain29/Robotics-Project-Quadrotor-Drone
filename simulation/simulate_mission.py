@@ -154,7 +154,7 @@ class StandaloneSimulator:
 
         # ---- Forces in world frame -------------------------------------
         # Total thrust (N) from all four motors
-        f_thrust = thrust_total * K_THRUST * 4  # four motors combined
+        f_thrust = thrust_total * K_THRUST
 
         # Decompose thrust through attitude angles
         fy = f_thrust * math.cos(new_roll) * math.cos(new_pitch)  # up
